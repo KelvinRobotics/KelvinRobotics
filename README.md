@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KelvinRobotics
-- 👀 I’m interested in ROBOTICS 
+- 👀 I’m interested in Humanoid ROBOTICS 
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ROBOTICS
 - 📫 How to reach me KROBOTICS26@GMAIL.COM
